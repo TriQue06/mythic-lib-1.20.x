@@ -1,7 +1,12 @@
 {
   "values": [
     "minecraft:netherite_hoe",
+    "mythicupgrades:aquamarine_hoe",
+    "mythicupgrades:peridot_hoe",
+    "mythicupgrades:topaz_hoe",
     "mythicupgrades:ruby_hoe",
-    "mythicupgrades:topaz_hoe"
+    "mythicupgrades:sapphire_hoe",
+    "mythicupgrades:ametrine_hoe",
+    "mythicupgrades:jade_hoe"
   ]
 }
