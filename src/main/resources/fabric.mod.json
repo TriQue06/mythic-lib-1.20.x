@@ -8,23 +8,20 @@
 		"TriQue"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/TriQue06/mythic-lib-1.20.x",
+		"issues": "https://github.com/TriQue06/mythic-lib-1.20.x/issues",
+		"repo": "https://github.com/TriQue06/mythic-lib-1.20.x"
 	},
 	"license": "MIT",
-	"icon": "assets/mythiclib/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
 			"net.trique.mythiclib.MythicLib"
-		],
-		"fabric-datagen": [
-			"net.trique.mythiclib.MythicLibDataGenerator"
 		]
 	},
 	"depends": {
-		"fabricloader": ">=0.15.6",
-		"minecraft": "~1.20.1",
+		"fabricloader": ">=0.15.10",
+		"minecraft": "~1.20.4",
 		"java": ">=17",
 		"fabric-api": "*"
 	},

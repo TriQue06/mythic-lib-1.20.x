@@ -1,15 +1,15 @@
 {
   "type": "minecraft:smithing_transform",
   "addition": {
-    "item": "mythicupgrades:citrine_ingot"
+    "item": "mythicupgrades:ruby_ingot"
   },
   "base": {
     "tag": "mythiclib:mythic_swords"
   },
   "result": {
-    "item": "mythicupgrades:citrine_sword"
+    "item": "mythicupgrades:ruby_sword"
   },
   "template": {
-    "item": "mythicupgrades:citrine_upgrade_smithing_template"
+    "item": "mythicupgrades:ruby_upgrade_smithing_template"
   }
 }
